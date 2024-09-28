@@ -63,8 +63,7 @@ streamlit run app.py
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/ai-resume-analyzer/issues).
 
-## 📜 License
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+
 
 ## 🙏 Acknowledgements
 - [Streamlit](https://streamlit.io/)
@@ -74,4 +73,4 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 - [RAG for All](https://www.ragforall.com)
 
 ---
-Made with ❤️ by [Your Name/Team Name]
+Made with ❤️ by RAGForAll
